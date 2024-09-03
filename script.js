@@ -2,7 +2,7 @@
 const audioTracks = {
     track1: new Audio('./Feelings - Vatsala _ Female Version _ Sumit Goswami - Whizz Music Productions (youtube).mp3'),
     track2: new Audio('./Aaj Se Teri - Lyrical _ Padman _ Akshay Kumar _ Radhika Apte _ Arijit Singh _ Amit Trivedi - Zee Music Company (youtube).mp3'),
-    track3: new Audio('./Ager Tum Saath ho _ (Slowed+Reverb)  Arjit Singh  _ Ankit music .mp3'),
+    track3: new Audio('./Ager Tum Saath ho.mp3'),
     track4: new Audio('./Avadh_Mein_Raghurai___Hansraj_Raghuwanshi___Jai_Shree_Ram___Ram_Mandir_Ayodhya_Song2024(48k).mp3'),
     track5: new Audio('./Brothers Anthem Full Video - Akshay Kumar,Sidharth Malhotra_Vishal Dadlani_Ajay-Atul - SonyMusicIndiaVEVO (youtube).mp3'),
     track6: new Audio('./Dekhha Tenu (Full HD Song) _ Mr. _ Mrs. Mahi _ Rajkummar Rao, Janhvi Kapoor _ Mohd. Faiz _ - A to Z Plethora Music (youtube).mp3'),

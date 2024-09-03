@@ -19,7 +19,7 @@ const audioTracks = {
     track17: new Audio('./Kesariya _ Raag Band _ Ft _ Reshma Shyam _ Cover _ Arijit Singh _ Brahmastra - Raag Band Music (youtube).mp3'),
     track18: new Audio('./Love Medley - Cover - Raag ft. Reshma Shyam - Afreen - Raabta - O Saathi - Raag Band Music (youtube).mp3'),
     track19: new Audio('./Luka Chuppi- Duniyaa Full Video Song - Kartik Aaryan Kriti Sanon - Akhil - Dhvani B - T-Series (youtube).mp3'),
-    track20: new Audio('./Naina jo mile hai sarkar sai ll à¤¨à¥à¤¨à¤¾ à¤à¥ à¤®à¤¿à¤²à¥ à¤¹à¥à¤ à¤¸à¤°à¤à¤¾à¤° à¤¸à¥ llðï¸ð¸â¨ Khatu Shyam bhajan l#yt - FACTO GIRL (youtube).mp3'),
+    track20: new Audio('./Naina jo mile hai sarkar sa.mp3'),
     track21: new Audio('./Naino Ne Baandhi - Lyrical _ Gold _ Akshay Kumar _ Mouni Roy _ Arko - Zee Music Company (youtube).mp3'),
     track22: new Audio('./RAM_KO_DEKH_KAR_SHRI_JANAK_NANDINI__RAM_BHAJAN__SALONI_THAKKAR(48k).mp3'),
     track23: new Audio('./Rama_Rama_ratte_ratte_beet_gai_umriya__slowed___reverb__by_best_Ram_bhajan_2024(48k).mp3'),
